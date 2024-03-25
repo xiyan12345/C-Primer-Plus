@@ -1,0 +1,3 @@
+D:/resoures/others/code/C++/project/C++_Primer_Plus/build/CMakeFiles/main.dir
+D:/resoures/others/code/C++/project/C++_Primer_Plus/build/CMakeFiles/edit_cache.dir
+D:/resoures/others/code/C++/project/C++_Primer_Plus/build/CMakeFiles/rebuild_cache.dir
